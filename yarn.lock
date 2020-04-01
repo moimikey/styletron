@@ -4234,17 +4234,17 @@ escope@^3.6.0:
     estraverse "^4.1.1"
 
 eslint-config-cup-recommended@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-cup-recommended/-/eslint-config-cup-recommended-2.0.2.tgz#d135221d4f4d1b142e610df34f660f3051f2b451"
-  integrity sha512-Q6LGYA/UwaBPGfByOUe8kiXkUjtNGdllNVCc80cGXmqv7qzm+Nwc2h/0slLv41h3z3UnbK2fWHk0K0VoT9TP+Q==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/eslint-config-cup-recommended/-/eslint-config-cup-recommended-2.0.4.tgz#83ccc0f0c641f9e496417e553746bf90b6a8c7a9"
+  integrity sha512-R3QRZEjtiK4s5RaZmZEP0rFn0rKGuJhW5NcIoYtcAcS7YN04Rm9u+R2VJivoqEReyZ3mY0iNc88OWMcjpUfb4Q==
   dependencies:
-    eslint-config-cup "^2.0.2"
+    eslint-config-cup "^2.0.4"
     eslint-plugin-prettier "^2.6.0"
 
-eslint-config-cup@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-cup/-/eslint-config-cup-2.0.2.tgz#dd96a158fe8ebbcf9f3625041b0a740312072b7e"
-  integrity sha512-OUZzNyDV6EtFBlP4lmUt4GTe5yayyamoxCudcVPdJb/KAfnAWfWsL9petQtwPh+i/bvkODDZc7SBQ902462sXQ==
+eslint-config-cup@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/eslint-config-cup/-/eslint-config-cup-2.0.4.tgz#18b92dcc0f020aef7d384620ffdb1d3f59165d09"
+  integrity sha512-ZtTNeHkSTf5u3yGm9/fspNhbJBYG/fLFOK3thq87iAFgcfjQa9za1lFstGPfYbCrKL2GhW2Z7cYoQlImkOmgaA==
 
 eslint-plugin-cup@^2.0.1:
   version "2.0.1"
